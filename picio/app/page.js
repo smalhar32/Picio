@@ -6,6 +6,7 @@ export default function Home() {
       Started Learning full stact <br />
       <Button variant="primary">Button</Button>
       <Button variant="glass">Glass Button</Button>
+      
     </div>
   );
 }
